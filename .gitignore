@@ -221,3 +221,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 >>>>>>> 616a56581528c2e023207bb18a6c63d349aeb45d
+.ipynb_checkpoints/ 
